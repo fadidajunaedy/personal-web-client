@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Madani Infosphere",
+        "description": "An integrated information system of diverse knowledge and information related to the work of Madani Berkelanjutan.",
+        "tech_stack": "Javascript, React JS, Tailwind CSS",
+        "link": "https://madani-infosphere.id",
+        "source": "https://github.com/fadidajunaedy/calculating-dreams"
+    },
+    {
+        "title": "DreamCost",
+        "description": "A web app for projecting the future prices of the things you aspire to own.",
+        "tech_stack": "Javascript, React JS, Tailwind CSS",
+        "link": "https://calculating-dreams.vercel.app",
+        "source": "https://github.com/fadidajunaedy/calculating-dreams"
+    },
+    {
+        "title": "JobFilter",
+        "description": "A simple job search web app designed to showcase intuitive filtering features.",
+        "tech_stack": "Javascript, React JS",
+        "link": "https://job-listing-fj.vercel.app",
+        "source": "https://github.com/fadidajunaedy/job-listing"
+    },
+    {
+        "title": "EasyCookin'",
+        "description": "An easy to use website for finding recipes from around the world.",
+        "tech_stack": "Javascript, Web Components",
+        "link": "https://easycookin.vercel.app",
+        "source": "https://github.com/fadidajunaedy/EasyCookin"
+    }
+]

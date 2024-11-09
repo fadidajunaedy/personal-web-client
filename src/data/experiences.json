@@ -1,0 +1,29 @@
+[
+    {
+        "place": "Madani Berkelanjutan",
+        "status": "Internship",
+        "type": "Hybrid",
+        "period": "August 2024 - Present",
+        "role": "Fullstack Web Developer",
+        "description": "Redesigned and rebuilt the padisolutions.com website to improve performance and implemented new features to enhance user experience and functionality.",
+        "tech_stack": "Javascript, React JS, Tailwind, REST API"
+    },
+    {
+        "place": "LSP Geospasial",
+        "status": "Freelance",
+        "type": "Remote",
+        "period": "April 2024 - May 2024",
+        "role": "Frontend Developer",
+        "description": "Building user interfaces, implementing APIs, and ensuring data is dynamically updated.",
+        "tech_stack": "React JS, Tailwind"
+    },
+    {
+        "place": "Madani Berkelanjutan",
+        "status": "Freelance",
+        "type": "Remote",
+        "period": "September 2023 - July 2024",
+        "role": "Fullstack Web Developer",
+        "description": "Build internal web applications to support the work needs of the organization.",
+        "tech_stack": "Javascript, React JS, Tailwind, REST API"
+    }
+]
